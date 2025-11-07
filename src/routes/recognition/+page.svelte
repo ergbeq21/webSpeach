@@ -33,7 +33,7 @@
 				listening = false;
 			};
 		} else {
-			alert("Speech Recognition not supported in this browser 😢");
+			alert("Speech Recognition not supported in this browser");
 		}
 	});
 
